@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ShameemAnsari3.githum.io/MyToDoApp/static/css/main.073c9b0a.css",
-    "main.js": "/ShameemAnsari3.githum.io/MyToDoApp/static/js/main.e55dec1a.js",
-    "static/js/787.59e3c716.chunk.js": "/ShameemAnsari3.githum.io/MyToDoApp/static/js/787.59e3c716.chunk.js",
-    "index.html": "/ShameemAnsari3.githum.io/MyToDoApp/index.html",
-    "main.073c9b0a.css.map": "/ShameemAnsari3.githum.io/MyToDoApp/static/css/main.073c9b0a.css.map",
-    "main.e55dec1a.js.map": "/ShameemAnsari3.githum.io/MyToDoApp/static/js/main.e55dec1a.js.map",
-    "787.59e3c716.chunk.js.map": "/ShameemAnsari3.githum.io/MyToDoApp/static/js/787.59e3c716.chunk.js.map"
+    "main.css": "/2todoreactapp/static/css/main.073c9b0a.css",
+    "main.js": "/2todoreactapp/static/js/main.11044f8f.js",
+    "static/js/787.59e3c716.chunk.js": "/2todoreactapp/static/js/787.59e3c716.chunk.js",
+    "index.html": "/2todoreactapp/index.html",
+    "main.073c9b0a.css.map": "/2todoreactapp/static/css/main.073c9b0a.css.map",
+    "main.11044f8f.js.map": "/2todoreactapp/static/js/main.11044f8f.js.map",
+    "787.59e3c716.chunk.js.map": "/2todoreactapp/static/js/787.59e3c716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e55dec1a.js"
+    "static/js/main.11044f8f.js"
   ]
 }
